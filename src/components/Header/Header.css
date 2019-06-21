@@ -1,0 +1,27 @@
+.Header {
+  //text-align: left;
+}
+
+.Header-logo {
+  height: 10vmin;
+  pointer-events: none;
+  max-width: 50%;
+}
+
+.Header-CompanyName {
+  color: red;
+  display: inline-block;
+  position: initial;
+}
+
+.Header-CompanyName-Subtitle {
+  display: flex;
+  margin-block-start: -1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin-left: 56px;
+}
+
+.Header-header {
+}
