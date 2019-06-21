@@ -1,9 +1,13 @@
 import React from 'react';
 import { Header } from './components/Header';
+import { AppBody } from './components/AppBody/Index';
 
 function App() {
   return (
-   <Header/>
+    <div>
+      <Header/>
+      <AppBody/>
+    </div>
   );
 }
 
