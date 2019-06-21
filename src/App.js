@@ -4,10 +4,10 @@ import { AppBody } from './components/AppBody/Index';
 
 function App() {
   return (
-    <div>
-   <Header/>
-   <AppBody/>
-   </div>
+  <div>
+    <Header/>
+    <AppBody/>
+  </div>
   );
 }
 
